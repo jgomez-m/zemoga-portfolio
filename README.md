@@ -8,7 +8,7 @@ The apliccation context: /zemoga-portfolio
 4. Run command: `mvn spring-boot:run`
 5. Go to URL localhost:8080/zemoga-portfolio/portfolios/{userName}
    
-   Example: http://localhost:8080/zemoga-portfolio/portfolios/GoT_Tyrion
+   Example: http://localhost:8080/zemoga-portfolio/portfolios/@Zemoga
 6. Test Rest API End Points
 
 Rest API End Points:
