@@ -17,13 +17,20 @@ Rest API End Points:
     [GET] localhost:8080/zemoga-portfolio/api/v1/users/{userId}
     [PUT] localhost:8080/zemoga-portfolio/api/v1/users/{userId}
 
-Software prerequisites:
+Technolgies used:
 -----------------------
 
 1. JDK 8
-3. Maven 3
+2. Maven 3
+3. Lombok
+4. SpringBoot and Spring Data
+5. Junit and Mockito
 
 Steps to build the WAR app:
 -----------------------
 
 1. Use the mvn clean install to generate the WAR file
+
+Total Time to complete the test:
+--------------------------------
+8 hours
